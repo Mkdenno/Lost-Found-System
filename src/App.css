@@ -10,3 +10,12 @@
     background-color: #042123;
     color: white;
 }
+/* Slider */
+.slidercaption{
+    position: absolute;
+    z-index: 4;
+    color: white;
+    font-size: 40px;
+    top: 40%;
+    left: 35%;
+}
