@@ -16,7 +16,7 @@ const About = () => {
           </div>
           {/* <div className="absolute z-0 w-40 h-40 bg-teal-400 rounded-full -right-20 -top-28 blur-lg"></div> */}
           {/* <div className="absolute z-0 w-40 h-40 bg-teal-400 rounded-full -left-20 -bottom-20 blur-lg"></div> */}
-          <div className="lg:w-2/5 lg:mr-20">
+          <div className="lg:w-full lg:mr-20">
             <h1 className="text-cyan-500">Lost And Found System</h1>
             <p>
               Lost and found software is a centralized platform for managing
