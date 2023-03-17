@@ -59,7 +59,7 @@ const Navbar = () => {
 
 
                 <Link
-                  to="/about"
+                  to="/lostfound"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                 >
                   LostFound
@@ -72,21 +72,21 @@ const Navbar = () => {
                   About
                 </Link>
                 <Link
-                  to="/service"
+                  to="/contact"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                 >
                   Contact
                 </Link>
 
                 <Link
-                  to="/service#"
+                  to="/login"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                 >
                   Login
                 </Link>
 
                 <Link
-                  to="/price"
+                  to="/register"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                 >
                   Register
