@@ -6,7 +6,7 @@ const Login = () => {
       <div className="container mx-auto">
         <div className="w-10/12 lg:w-8/12 bg-white flex flex-col lg:flex-row rounded-xl mx-auto shadow-lg overflow-hidden">
           <div
-            className="w-full lg:w-1/2 flex flex-col items-center justify-center bg-no-repeat p-12 bg-cover bg-center"
+            className="w-full lg:w-1/2 lg:flex flex-col items-center justify-center hidden bg-no-repeat p-12 bg-cover bg-center"
             style={{
               backgroundImage: `url(${"https://imgs.search.brave.com/ruQ-D0q6nr6ZQrOB4dBlkRXZZd9akgBvLJPaFXzxVu8/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/QXlaaVYzb3lENG9N/TWlwZ0tSOURnSGFF/SyZwaWQ9QXBp"})`,
             }}
