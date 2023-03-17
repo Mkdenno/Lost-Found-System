@@ -11,7 +11,7 @@ const Footer = () => {
     <div className='footer-container w-full  flex justify-center items-center flex-col' >
         <div className='flex justify-around flex-wrap w-full'>
         <div className="mt-6">
-                <h1 className='text-3xl'>Lost And Found Document Recovery System</h1>
+                <h1 className='text-3xl text-cyan-500'>Lost And Found Document Recovery System</h1>
                 <p className='text-sm mt-5'>Please let us Know if you misplaced your Documents</p>
                 <div className=' flex justify-start items-center mt-5'>
                 <i className='border-solid border-2 border-gray-700 rounded-full mr-2 p-2'><BsFacebook/></i>
@@ -23,7 +23,7 @@ const Footer = () => {
         </div> 
         <div className="mt-6">
             <h1 className='text-lg'>INFORMATION</h1>
-            <p className='text-sm mt-5'>Lost And Found Document Recovery System</p>
+            <p className='text-sm mt-5 text-cyan-500'>Lost And Found Document Recovery System</p>
 
             <div className='mt-5'>
             <div className='flex justify-start items-center text-sm'>

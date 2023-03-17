@@ -8,7 +8,7 @@ const Navbar = () => {
   const links = [
     {
       id:1,
-      link: "home"
+      link: "/"
 
     },
     {
@@ -46,7 +46,7 @@ const Navbar = () => {
         <div className="relative flex  justify-center items-center h-16"></div>
           <div className="w-full flex  justify-around  items-center">
             <div className=" text-3xl text-white  ">
-                <h1>Lost&Found</h1>
+                <h1 className="text-cyan-500">Lost&Found</h1>
             </div>
             <div className="hidden sm:block sm:ml-6">
               <div className="flex space-x-4">
