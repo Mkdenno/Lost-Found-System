@@ -3,7 +3,13 @@ import React from "react";
 const LostFound = () => {
   return (
     <>
-    <div className="flex justify-center items-center flex-wrap">
+    <div className="flex justify-center items-center">
+    <h1 className="text-3xl mt-6 font-bold">Lost Documents</h1>
+
+    </div>
+
+
+    <div className="flex justify-center items-center flex-wrap ">
     <div class=" m-8 w-72 max-w-full rounded overflow-hidden shadow-lg">
       <img
         class="w-72 max-w-full h-64"
